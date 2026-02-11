@@ -18,13 +18,13 @@ Making plenty of mistakes and figuring out how to fix them — that’s how I le
 
 ### 💻 Featured Projects
 
-#### 📝 [05-notehub](https://your-link-here.com)
+#### 📝 [07-routing-nextjs](https://github.com/Kazarina-Daria/07-routing-nextjs)
 *A web application for managing personal thoughts.*
 * **What it does:** Users can quickly add, edit, and delete notes.
 * **Key Features:** Real-time search by keywords and an intuitive interface.
 * **Tech:** React, CSS Modules, Lucide-react.
 
-#### 🖼️ [goit-js-hw-12](https://your-link-here.com)
+#### 🖼️ [goit-js-hw-12](https://your-link-here.com](https://github.com/Kazarina-Daria/goit-js-hw-12)
 *Searchable image gallery powered by Pixabay API.*
 * **What it does:** Fetches images based on user queries and displays them in a neat gallery.
 * **Key Features:** Smooth scroll, Lightbox for image preview, and "Load More" pagination.
@@ -33,8 +33,8 @@ Making plenty of mistakes and figuring out how to fix them — that’s how I le
 ---
 
 ### 📫 How to reach me:
-* **LinkedIn:** [Your Profile](https://linkedin.com/in/your-username)
-* **Email:** your-email@example.com
+* **LinkedIn:** [Daria Kazarina](https://www.linkedin.com/in/ daria-kazarina-/))
+* **Email:** kkazarina.daria@gmail.com
 
 *"One commit a day keeps the bugs away."* 🧩
 
@@ -49,9 +49,6 @@ Making plenty of mistakes and figuring out how to fix them — that’s how I le
 ![Russian](https://img.shields.io/badge/Russian-Native-yellow?style=flat-square)
 
 
-📫 How to reach me
 
-[LinkedIn](https://www.linkedin.com/in/daria-kazarina-810085349/) 
-[Email](mailto:kkazarina.daria@gmail.com)
 
 
