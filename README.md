@@ -1,28 +1,42 @@
-Hi, I'm Daria Kazarina
-💻 Junior Fullstack Developer | React | Node.js
+# Hi, I'm Daria Kazarina 👋
+### 💻 Junior Fullstack Developer | React | Node.js
 
-Learning Fullstack development day by day. Currently focused on React and Node.js. Making plenty of mistakes and figuring out how to fix them — that’s how I learn best.
+Learning Fullstack development day by day. Currently focused on **React** and **Node.js**.  
+Making plenty of mistakes and figuring out how to fix them — that’s how I learn best. 🚀
 
-🧰 Tech Stack
+---
 
-## **Frontend**
-**JavaScript | TypeScript | React | Redux | HTML5 | CSS3 (SASS) | Next.js**
+### 🧰 Tech Stack
 
-## **Tools & Workflow**
-**Git | GitHub | Figma | VS Code | npm | Agile/Scrum**
+#### **Frontend**
+**JavaScript** | **TypeScript** | **React** | **Redux** | **HTML5** | **CSS3 (SASS)** | **Next.js**
 
-💻 Featured Projects
+#### **Tools & Workflow**
+**Git** | **GitHub** | **Figma** | **VS Code** | **npm** | **Agile/Scrum**
 
-05-notehub
+---
 
-NoteHub is a web application for creating, storing, searching, and deleting notes.
-Users can quickly add new notes, edit existing ones, search by keywords, and manage their personal collection through an intuitive and user-friendly interface.
+### 💻 Featured Projects
 
+#### 📝 [05-notehub](https://your-link-here.com)
+*A web application for managing personal thoughts.*
+* **What it does:** Users can quickly add, edit, and delete notes.
+* **Key Features:** Real-time search by keywords and an intuitive interface.
+* **Tech:** React, CSS Modules, Lucide-react.
 
-goit-js-hw-12
+#### 🖼️ [goit-js-hw-12](https://your-link-here.com)
+*Searchable image gallery powered by Pixabay API.*
+* **What it does:** Fetches images based on user queries and displays them in a neat gallery.
+* **Key Features:** Smooth scroll, Lightbox for image preview, and "Load More" pagination.
+* **Tech:** Pure JS, REST API, Axios.
 
-This project is a searchable image gallery using the Pixabay API.
-Users can search for images, view results in a gallery with a lightbox, and load more images with pagination.
+---
+
+### 📫 How to reach me:
+* **LinkedIn:** [Your Profile](https://linkedin.com/in/your-username)
+* **Email:** your-email@example.com
+
+*"One commit a day keeps the bugs away."* 🧩
 
 🗣️ Languages
 
