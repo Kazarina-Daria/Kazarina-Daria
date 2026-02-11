@@ -33,7 +33,7 @@ Making plenty of mistakes and figuring out how to fix them — that’s how I le
 ---
 
 ### 📫 How to reach me:
-* **LinkedIn:** [Daria Kazarina](https://www.linkedin.com/in/daria-kazarina-/))
+* **LinkedIn:** [Daria Kazarina](https://www.linkedin.com/in/daria-kazarina-/)
 * **Email:** kkazarina.daria@gmail.com
 
 *"One commit a day keeps the bugs away."* 🧩
