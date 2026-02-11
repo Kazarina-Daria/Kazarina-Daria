@@ -1,14 +1,15 @@
 Hi, I'm Daria Kazarina
 💻 Junior Fullstack Developer | React | Node.js
 
-I’m a passionate fullstack developer with experience in JavaScript, React, Redux, Node.js, and MongoDB.
-I take pleasure in creating dynamic and scalable web applications, connecting REST APIs, and crafting responsive user interfaces.
-I have a background in collaborating within Agile/Scrum teams and adhere to best practices such as clean code, Git version control, and performance optimization.
+Learning Fullstack development day by day. Currently focused on React and Node.js. Making plenty of mistakes and figuring out how to fix them — that’s how I learn best.
 
 🧰 Tech Stack
 
-Frontend: JavaScript | TypeScript | React | Redux | HTML5 | CSS3 (SASS) | Next.js
-Tools & Workflow: Git | GitHub | Figma | VS Code | npm | Agile/Scrum
+## **Frontend**
+**JavaScript | TypeScript | React | Redux | HTML5 | CSS3 (SASS) | Next.js**
+
+## **Tools & Workflow**
+**Git | GitHub | Figma | VS Code | npm | Agile/Scrum**
 
 💻 Featured Projects
 
