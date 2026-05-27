@@ -31,7 +31,7 @@ Making plenty of mistakes and figuring out how to fix them — that’s how I le
 
 ### 💻 Featured Projects
 
-#### 📝 [08-zustand](https://github.com/Kazarina-Daria/07-routing-nextjs](https://github.com/Kazarina-Daria/08-zustand)
+#### 📝 [08-zustand](https://github.com/Kazarina-Daria/08-zustand)
 *A web application for managing personal thoughts.*
 * **What it does:** Users can quickly add, edit, and delete notes.
 * **Key Features:** Real-time search by keywords and an intuitive interface.
