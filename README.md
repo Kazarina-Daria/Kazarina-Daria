@@ -1,5 +1,5 @@
 # Hi, I'm Daria Kazarina 👋
-### 💻 Junior Fullstack Developer | React | Node.js
+### 💻 Junior Fullstack Developer | React | Next.js | Node.js 
 
 Learning Fullstack development day by day. Currently focused on **React** and **Node.js**.  
 Making plenty of mistakes and figuring out how to fix them — that’s how I learn best. 🚀
@@ -8,27 +8,34 @@ Making plenty of mistakes and figuring out how to fix them — that’s how I le
 
 ### 🧰 Tech Stack
 
-#### **Frontend**
-**JavaScript** | **TypeScript** | **React** | **Redux** | **HTML5** | **CSS3 (SASS)** | **Next.js**
+#### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3%20%2F%20SASS-CC6699?style=flat&logo=sass&logoColor=white)
 
-#### **Tools & Workflow**
-**Git** | **GitHub** | **Figma** | **VS Code** | **npm** | **Agile/Scrum**
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
+#### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ---
 
 ### 💻 Featured Projects
 
-#### 📝 [07-routing-nextjs](https://github.com/Kazarina-Daria/07-routing-nextjs)
+#### 📝 [08-zustand]([https://github.com/Kazarina-Daria/07-routing-nextjs](https://github.com/Kazarina-Daria/08-zustand))
 *A web application for managing personal thoughts.*
 * **What it does:** Users can quickly add, edit, and delete notes.
 * **Key Features:** Real-time search by keywords and an intuitive interface.
-* **Tech:** React, CSS Modules, Lucide-react.
-
-#### 🖼️ [goit-js-hw-12](https://your-link-here.com](https://github.com/Kazarina-Daria/goit-js-hw-12)
-*Searchable image gallery powered by Pixabay API.*
-* **What it does:** Fetches images based on user queries and displays them in a neat gallery.
-* **Key Features:** Smooth scroll, Lightbox for image preview, and "Load More" pagination.
-* **Tech:** Pure JS, REST API, Axios.
+* **Tech:** React, CSS Modules.
 
 ---
 
